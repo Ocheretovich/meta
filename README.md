@@ -2,7 +2,7 @@
 
 - [Goal](#goal)
 - [Structure](#structure)
-- [Naming Conventions](#naming-conventions)
+- [Repository Naming Conventions](#repository-naming-conventions)
 - [CODEOWNERS](#codeowners)
 - [Semantic Versioning](#semantic-versioning)
 - [RFCs](#rfcs)
